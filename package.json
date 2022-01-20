@@ -1,0 +1,14 @@
+{
+  "name": "gameloop",
+  "version": "1.0.0",
+  "description": "Game Loop demo for CS5410",
+  "main": "index.js",
+  "scripts": {
+    "build": "npx tsc && open ./index.html"
+  },
+  "author": "Danny Clyde",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^4.5.4"
+  }
+}
